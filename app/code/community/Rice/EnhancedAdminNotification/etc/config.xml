@@ -1,8 +1,19 @@
 <?xml version="1.0"?>
 <config>
 	<global>
-		<adminnotification_resource>
-			<inbox>Rice_EnhancedAdminNotification_Model_Resource_Inbox</inbox>
-		</adminnotification_resource>
+		<blocks>
+			<adminhtml>
+				<rewrite>
+					<notification_window>Rice_EnhancedAdminNotification_Block_Adminhtml_Notification_Window</notification_window>
+				</rewrite>
+			</adminhtml>
+		</blocks>
+		<models>
+			<adminnotification_resource>
+				<rewrite>
+					<inbox>Rice_EnhancedAdminNotification_Model_Resource_Inbox</inbox>
+				</rewrite>
+			</adminnotification_resource>
+		</models>
 	</global>
 </config>
