@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<global>
+		<adminnotification_resource>
+			<inbox>Rice_EnhancedAdminNotification_Model_Resource_Inbox</inbox>
+		</adminnotification_resource>
+	</global>
+</config>
