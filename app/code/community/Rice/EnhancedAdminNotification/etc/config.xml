@@ -9,6 +9,9 @@
 			</adminhtml>
 		</blocks>
 		<models>
+			<rice_enhancedadminnotification>
+				<class>Rice_EnhancedAdminNotification_Model</class>
+			</rice_enhancedadminnotification>
 			<adminnotification_resource>
 				<rewrite>
 					<inbox>Rice_EnhancedAdminNotification_Model_Resource_Inbox</inbox>
