@@ -1,0 +1,12 @@
+{
+  "name": "fantasticrice/enhanced-admin-notification",
+  "type": "magento-module",
+  "description": "Solves some shortcomings of Magento Admin notifications. Allows you to stop being bothered by the spam notices.",
+  "homepage": "https://github.com/fantasticrice/Rice_EnhancedAdminNotification",
+  "authors": [
+	{
+	  "name": "Joshua Rice",
+	  "email": "rice.joshua@gmail.com"
+	}
+  ]
+}
