@@ -19,4 +19,12 @@
 			</adminnotification_resource>
 		</models>
 	</global>
+
+	<default>
+		<system>
+			<adminnotification>
+				<allow_modal>1,2,3,4</allow_modal>
+			</adminnotification>
+		</system>
+	</default>
 </config>
